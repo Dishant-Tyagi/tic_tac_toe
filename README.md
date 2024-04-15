@@ -10,7 +10,7 @@ This is a simple implementation of the Tic Tac Toe game in Python using the Tkin
 - Winning Detection: The game detects when a player wins or when the game ends in a draw.
 
 ## Notice
-- if flip coin show any error clone coin_toss and it in the same directory(folder)
+- if flip coin show any error clone coin_toss and paste it in the same directory(folder)
 
 ## How to Run
 1. Make sure you have Python installed on your system.
